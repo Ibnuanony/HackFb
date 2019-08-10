@@ -99,7 +99,7 @@ def Y_T():
 		os.system('clear')
 		jalan("\033[1;97mSedang membuka browser")
 		os.system('clear')
-		os.system('xdg-open https://github.com/ibnuanony/darkfb')
+		os.system('xdg-open https://github.com/ibnuanony/HackFb')
 		time.sleep(1)
 		print"Silahkan lihat username dan password di github"
 		raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]\033[1;92m")
@@ -112,7 +112,7 @@ def Y_T():
 		os.system('clear')
 		jalan("\033[1;97mSedang membuka browser")
 		os.system('clear')
-		os.system('xdg-open https://github.com/ibnuanony/darkfb')
+		os.system('xdg-open https://github.com/ibnuanony/HackFb')
 		time.sleep(1)
 		print"Silahkan lihat username dan password di github"
 		raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]\033[1;92m")
